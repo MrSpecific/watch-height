@@ -1,0 +1,24 @@
+{
+  "name": "watch-height",
+  "version": "1.0.0",
+  "description": "Track an element's heigh via a CSS custom prop",
+  "main": "watchHeight.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrSpecific/watch-height.git"
+  },
+  "keywords": [
+    "vanilla",
+    "es6",
+    "height"
+  ],
+  "author": "Will Christenson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrSpecific/watch-height/issues"
+  },
+  "homepage": "https://github.com/MrSpecific/watch-height#readme"
+}
